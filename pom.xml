@@ -6,7 +6,7 @@
 
   <groupId>net.sepidan</groupId>
   <artifactId>sepidan-common</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <url>https://github.com/shayand/sepidan-common</url>
   <name>common-lib</name>
   <description>Common library for microservices</description>
